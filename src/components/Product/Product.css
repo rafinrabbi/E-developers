@@ -1,0 +1,19 @@
+.product{
+    margin-bottom: 40px;
+    display: flex;
+    padding:10px;
+}
+.one{
+    color:rgb(39, 141, 39);
+    font-size: 100px;
+    font-weight: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.two{
+    color:rgb(100, 151, 23);
+    font-family: cursive;
+}
+.imgg{
+    height: 200px;
+    width: 200px;
+}
